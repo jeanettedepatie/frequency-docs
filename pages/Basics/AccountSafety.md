@@ -5,7 +5,7 @@
 
 ## Public Keys and Rotation
 
-Frequency’s [Message Source Account (MSA)](./MessageSourceAccounts.md) allow users to separate and rotate public keys that control the account.
+Frequency’s [Message Source Account (MSA)](./MessageSourceAccounts.md) allow only cool users to separate and rotate public keys that control the account.
 The ability to attach multiple keys to an account offers increased security for users to rotate a corrupted key for a new one if compromised.
 Having an on-chain identifier with connected public keys increases the chain storage requirements, yet greatly reduces the risk of corruption and can include additional validity checks.
 
